@@ -7,8 +7,8 @@ int main()
 	setlocale(LC_CTYPE, "RUS");
 	double s;
 	double result;
-	puts("Введите число");
+	puts("Р’РІРµРґРёС‚Рµ С‡РёСЃР»Рѕ");
 	scanf("%lf", &s);
 	result = D * s;
-	printf(" %.1f световых лет - это %.1f астрономических единиц\n", s, result);
+	printf(" %.1f СЃРІРµС‚РѕРІС‹С… Р»РµС‚ - СЌС‚Рѕ %.1f Р°СЃС‚СЂРѕРЅРѕРјРёС‡РµСЃРєРёС… РµРґРёРЅРёС†\n", s, result);
 }
