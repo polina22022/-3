@@ -23,9 +23,13 @@ https://github.com/polina22022/-3/blob/master/lab3.drawio
 ## 2. Реализация программы
 
 #include <stdio.h>
+
 #include <locale.h>
+
 #define D    63241
+
 int main()
+
 {
 
 	setlocale(LC_CTYPE, "RUS");
