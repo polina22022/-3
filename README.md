@@ -18,7 +18,7 @@
 ### Блок-схема
 <img width="206" height="480" alt="image" src="https://github.com/user-attachments/assets/638fb38b-7243-4b29-aa4b-4f1191f10ca5" />
 
-https://github.com/polina22022/-/blob/main/lab_2_schema.png
+https://github.com/polina22022/-3/blob/master/lab3.drawio
 
 ## 2. Реализация программы
 
